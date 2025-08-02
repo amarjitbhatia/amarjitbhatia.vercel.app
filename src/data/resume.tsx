@@ -2,15 +2,15 @@ import { Icons } from "@/components/icons";
 import { HomeIcon, NotebookIcon } from "lucide-react";
 
 export const DATA = {
-  name: "Dillion Verma",
-  initials: "DV",
+  name: "Amarjit Bhatia",
+  initials: "AJ",
   url: "https://dillion.io",
-  location: "San Francisco, CA",
+  location: "San , CA",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
-    "Software Engineer turned Entrepreneur. I love building things and helping people. Very active on Twitter.",
+    "Senior Engineering professional with experience in Technical Program Management, Hardware Design, NPI, Quality and Sustaining Engineering",
   summary:
-    "At the end of 2022, I quit my job as a software engineer to go fulltime into building and scaling my own SaaS businesses. In the past, [I pursued a double degree in computer science and business](/#education), [interned at big tech companies in Silicon Valley](https://www.youtube.com/watch?v=d-LJ2e5qKdE), and [competed in over 21 hackathons for fun](/#hackathons). I also had the pleasure of being a part of the first ever in-person cohort of buildspace called [buildspace sf1](https://buildspace.so/sf1).",
+    "I’m a seasoned, cross-functional engineering leader with over two decades of experience delivering complex hardware and system solutions across global markets. I bring a rare blend of deep technical fluency, disciplined program management, and a quality-first mindset. My strength lies in connecting the dots—from design and development to manufacturing and customer impact—ensuring that innovation scales with precision and reliability.",
   avatarUrl: "/me.png",
   skills: [
     "React",
