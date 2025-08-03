@@ -5,15 +5,15 @@ export const DATA = {
   name: "Amarjit Bhatia",
   initials: "AJ",
   url: "https://dillion.io",
-  location: "San , CA",
-  locationLink: "https://www.google.com/maps/place/sanfrancisco",
+  location: "San Diego, CA",
+  locationLink: "https://www.google.com/maps/place/sanDiego",
   description:
     "Senior Engineering professional with experience in Technical Program Management, Hardware Design, NPI, Quality and Sustaining Engineering",
   summary:
-    "I’m a seasoned, cross-functional engineering leader with over two decades of experience delivering complex hardware and system solutions across global markets. I bring a rare blend of deep technical fluency, disciplined program management, and a quality-first mindset. My strength lies in connecting the dots—from design and development to manufacturing and customer impact—ensuring that innovation scales with precision and reliability.",
+    "I am a seasoned, cross-functional engineering leader with over two decades of experience delivering complex hardware and system solutions across global markets. I bring a rare blend of deep technical fluency, disciplined program management, and a quality-first mindset. My strength lies in connecting the dots—from design and development to manufacturing and customer impact—ensuring that innovation scales with precision and reliability.",
   avatarUrl: "/me.png",
   skills: [
-    "React",
+    "Program lifecycle management (from inception to delivery)",
     "Next.js",
     "Typescript",
     "Node.js",
@@ -30,19 +30,19 @@ export const DATA = {
     { href: "/blog", icon: NotebookIcon, label: "Blog" },
   ],
   contact: {
-    email: "hello@example.com",
-    tel: "+123456789",
+    email: "amarjitbhatia1@gmail.com",
+    tel: "+18583354631",
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://dub.sh/dillion-github",
+        url: "https://github.com/amarjitbhatia",
         icon: Icons.github,
 
         navbar: true,
       },
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://dub.sh/dillion-linkedin",
+        url: "https://www.linkedin.com/in/amarjit-bhatia-3627207/",
         icon: Icons.linkedin,
 
         navbar: true,
@@ -52,13 +52,13 @@ export const DATA = {
         url: "https://dub.sh/dillion-twitter",
         icon: Icons.x,
 
-        navbar: true,
+        navbar: false,
       },
       Youtube: {
         name: "Youtube",
         url: "https://dub.sh/dillion-youtube",
         icon: Icons.youtube,
-        navbar: true,
+        navbar: false,
       },
       email: {
         name: "Send Email",
