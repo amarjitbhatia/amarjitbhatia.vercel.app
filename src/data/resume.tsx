@@ -27,7 +27,7 @@ export const DATA = {
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
-    { href: "/blog", icon: NotebookIcon, label: "Blog" },
+    /*{ href: "/blog", icon: NotebookIcon, label: "Blog" }*/
   ],
   contact: {
     email: "amarjitbhatia1@gmail.com",
@@ -65,7 +65,7 @@ export const DATA = {
         url: "#",
         icon: Icons.email,
 
-        navbar: false,
+        navbar: true,
       },
     },
   },
@@ -73,7 +73,7 @@ export const DATA = {
   work: [
     {
       company: "HP Inc.",
-      href: "https://www.hp.com/",
+      href: "https://www.hp.com",
       badges: [],
       location: "On-site",
       title: "Senior Technical Program Manager | Hardware Delivery & Cost Optimization",
@@ -84,17 +84,16 @@ export const DATA = {
         "Strategic and execution-focused hardware program leader with a strong track record of delivering complex, cross-functional systems from concept through high-volume production. I serve as the single-threaded owner of hardware programs—accountable for end-to-end delivery, from architecture through validation, supplier alignment, and production readiness.",
     },
     {
-      company: "Shopify",
+      company: "HP Inc.",
       badges: [],
-      href: "https://shopify.com",
-      location: "Remote",
-      title: "Software Engineer",
-      logoUrl: "/shopify.svg",
-      start: "January 2021",
-      end: "April 2021",
+      href: "https://www.hp.com/",
+      location: "On-site",
+      title: "Senior New product Introduction- NPI Manager ",
+      logoUrl: "/hp.png",
+      start: "June 2013",
+      end: "jULY 2015",
       description:
-        "Implemented a custom Kubernetes controller in Go to automate the deployment of MySQL and ProxySQL custom resources in order to enable 2,000+ internal developers to instantly deploy their app databases to production. Wrote several scripts in Go to automate MySQL database failovers while maintaining master-slave replication topologies and keeping Zookeeper nodes consistent with changes.",
-    },
+        "Drove successful launch of multiple products in the portfolio , adding 10.5 million units to the global install base and generating over $1.4B in hardware revenue."
     {
       company: "Nvidia",
       href: "https://nvidia.com/",
