@@ -72,7 +72,7 @@ export const DATA = {
 
   work: [
     {
-      company: "Atomic Finance",
+      company: "HP Inc.",
       href: "https://atomic.finance",
       badges: [],
       location: "Remote",
