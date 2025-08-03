@@ -73,15 +73,15 @@ export const DATA = {
   work: [
     {
       company: "HP Inc.",
-      href: "https://atomic.finance",
+      href: "https://www.hp.com/",
       badges: [],
-      location: "Remote",
-      title: "Bitcoin Protocol Engineer",
-      logoUrl: "/atomic.png",
-      start: "May 2021",
-      end: "Oct 2022",
+      location: "On-site",
+      title: "Senior Technical Program Manager | Hardware Delivery & Cost Optimization",
+      logoUrl: "/hp.png",
+      start: "July 2015",
+      end: "Present",
       description:
-        "Implemented the Bitcoin discreet log contract (DLC) protocol specifications as an open source Typescript SDK. Dockerized all microservices and setup production kubernetes cluster. Architected a data lake using AWS S3 and Athena for historical backtesting of bitcoin trading strategies. Built a mobile app using react native and typescript.",
+        "Strategic and execution-focused hardware program leader with a strong track record of delivering complex, cross-functional systems from concept through high-volume production. I serve as the single-threaded owner of hardware programs—accountable for end-to-end delivery, from architecture through validation, supplier alignment, and production readiness.",
     },
     {
       company: "Shopify",
