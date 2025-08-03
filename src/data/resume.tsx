@@ -128,7 +128,7 @@ export const DATA = {
       badges: [],
       location: "San Diego, CA",
       title: "Electrical Engineer OEM/ODM Design",
-      logoUrl: "/lime.svg",
+      logoUrl: "/hp.png",
       start: "September 1999",
       end: "August 2002",
       description:
@@ -140,7 +140,7 @@ export const DATA = {
       badges: [],
       location: "Chandigarh, India",
       title: "Semiconductor Process engineer",
-      logoUrl: "/cdil.png",
+      logoUrl: "/CDIL.png",
       start: "September 1996",
       end: "July 1999",
       description:
