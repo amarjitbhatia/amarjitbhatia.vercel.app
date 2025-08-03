@@ -94,6 +94,7 @@ export const DATA = {
       end: "jULY 2015",
       description:
         "Drove successful launch of multiple products in the portfolio , adding 10.5 million units to the global install base and generating over $1.4B in hardware revenue."
+    },
     {
       company: "Nvidia",
       href: "https://nvidia.com/",
