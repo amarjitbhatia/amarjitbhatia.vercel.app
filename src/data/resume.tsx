@@ -180,7 +180,7 @@ export const DATA = {
   ],
   projects: [
     {
-      title: "Control Panel Capacitive touch redesign- PAn HP project",
+      title: "Control Panel Capacitive touch redesign- Pan HP project",
       href: "https://github.com/amarjitbhatia/touchpanel-ui/blob/main/Control_panel_touch_sensing_UI_optimization.pdf",
       dates: "Jan 2024 - April 2025",
       active: true,
@@ -190,19 +190,23 @@ export const DATA = {
         "Cadence Allegro",
         "PCB Design",
         "Firmware Development",
+        "Solidworks Creo",
+        "Global team management",
+        "Cost Optimization",
         "Complaince testing",
         "Project management",
+        "Operations Management"
       ],
       links: [
         {
           type: "Website",
-          href: "https://chatcollect.com",
+          href: "https://github.com/amarjitbhatia/touchpanel-ui/blob/main/Control_panel_touch_sensing_UI_optimization.pdf",
           icon: <Icons.globe className="size-3" />,
         },
       ],
       image: "",
       video:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
+        "/CapUI.png",
     },
     {
       title: "Magic UI",
