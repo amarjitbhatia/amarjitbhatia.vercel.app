@@ -302,4 +302,15 @@ export const DATA = {
         "https://pub-83c5db439b40468498f97946200806f7.r2.dev/automatic-chat.mp4",
     },
   ],
+  hackathons: [
+    {
+      title: "Portal Hackathon",
+      dates: "October 29, 2016",
+      location: "Kingston, Ontario",
+      description:
+        "Developed an internal widget for uploading assignments using Waterloo's portal app",
+      image:
+        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/portal-hackathon.png",
+    },
+  ],
 } as const;
