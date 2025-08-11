@@ -1,5 +1,5 @@
 import { Icons } from "@/components/icons";
-import { HomeIcon, Image, NotebookIcon } from "lucide-react";
+import { HomeIcon, Image, NotebookIcon, Video } from "lucide-react";
 
 export const DATA = {
   name: "Amarjit Bhatia",
@@ -205,7 +205,7 @@ export const DATA = {
         },
       ],
       image: "",
-      ImageBitmap:"/CapUI.png",
+      Video:"/CapUI.png",
     },
     {
       title: "Magic UI",
