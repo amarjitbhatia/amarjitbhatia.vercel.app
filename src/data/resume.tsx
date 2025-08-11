@@ -29,7 +29,7 @@ export const DATA = {
     "Metrics Tracking",
     "KPI Management",
     "Change Management", 
-    "Quality Management System(QMS",
+    "Quality Management System(QMS)",
     "Quality Assurance Plan(QAP)", 
     "Managing Up and Across",
     "Engineering Leadership",
@@ -205,7 +205,7 @@ export const DATA = {
         },
       ],
       image: "",
-      Video:"/CapUI.png",
+      video:"/CapUI.png",
     },
     {
       title: "Magic UI",
@@ -302,3 +302,4 @@ export const DATA = {
         "https://pub-83c5db439b40468498f97946200806f7.r2.dev/automatic-chat.mp4",
     },
   ],
+ }; 
