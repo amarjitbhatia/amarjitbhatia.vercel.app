@@ -303,5 +303,7 @@ export const DATA = {
     },
   ],
   hackathons: [
+      ],
+    },
   ],
 } as const;
