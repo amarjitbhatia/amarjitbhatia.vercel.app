@@ -45,9 +45,9 @@ export const DATA = {
     "Leadership & People Skills",
     "Team Mentorship", 
     "Leading Without Authority",
-    "Decision-Making under Uncertainty",
+    "Decision-Making under uncertainty",
     "Emotional Intelligence",
-    "Organizational awareness",
+    "Organizational Awareness",
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
