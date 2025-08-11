@@ -180,21 +180,18 @@ export const DATA = {
   ],
   projects: [
     {
-      title: "Chat Collect",
-      href: "https://chatcollect.com",
-      dates: "Jan 2024 - Feb 2024",
+      title: "Control Panel Capacitive touch redesign- PAn HP project",
+      href: "https://github.com/amarjitbhatia/touchpanel-ui/blob/main/Control_panel_touch_sensing_UI_optimization.pdf",
+      dates: "Jan 2024 - April 2025",
       active: true,
       description:
-        "With the release of the [OpenAI GPT Store](https://openai.com/blog/introducing-the-gpt-store), I decided to build a SaaS which allows users to collect email addresses from their GPT users. This is a great way to build an audience and monetize your GPT API usage.",
+        "A pan-organizational initiative I led to redesign the user interface (UI) touch architecture from a dual-chip to a single-chip solution. This project spanned multiple products and involved coordinating cross-functional engineering teams across Singapore, Boise, and San Diego labs. The primary goals were to achieve cost savings, improve touch performance, and streamline integration across the product portfolio. The successful implementation of this initiative resulted in significant benefits for the organization.",
       technologies: [
-        "Next.js",
-        "Typescript",
-        "PostgreSQL",
-        "Prisma",
-        "TailwindCSS",
-        "Stripe",
-        "Shadcn UI",
-        "Magic UI",
+        "Cadence Allegro",
+        "PCB Design",
+        "Firmware Development",
+        "Complaince testing",
+        "Project management",
       ],
       links: [
         {
