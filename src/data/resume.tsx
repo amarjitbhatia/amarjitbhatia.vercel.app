@@ -205,7 +205,7 @@ export const DATA = {
         },
       ],
       image: "",
-      Image:"/CapUI.png",
+      ImageBitmap:"/CapUI.png",
     },
     {
       title: "Magic UI",
