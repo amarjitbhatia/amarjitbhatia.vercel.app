@@ -1,20 +1,21 @@
 import { Icons } from "@/components/icons";
-import { HomeIcon, Image, NotebookIcon, Video } from "lucide-react";
+import { HomeIcon } from "lucide-react";
 
 export const DATA = {
   name: "Amarjit Bhatia",
   initials: "AJ",
   url: "https://amarjitbhatia.vercel.app/",
   location: "San Diego, CA",
-  locationLink: "https://www.google.com/maps/place/sanDiego",
+  locationLink: "https://www.google.com/maps/place/San+Diego",
   description:
-    "Senior Engineering professional with experience in Technical Program Management, Hardware Design, NPI, Quality and Sustaining Engineering",
+    "Senior engineering professional with experience in Technical Program Management, Hardware Design, NPI, Quality, and Sustaining Engineering.",
   summary:
-    "I am a seasoned, cross-functional engineering leader with over two decades of experience delivering complex hardware and system solutions across global markets. I bring a rare blend of deep technical fluency, disciplined program management, and a quality-first mindset. My strength lies in connecting the dots from design and development to manufacturing and customer impact,ensuring that innovation scales with precision and reliability.",
+    "I am a seasoned, cross-functional engineering leader with over two decades of experience delivering complex hardware and system solutions across global markets. I bring a rare blend of deep technical fluency, disciplined program management, and a quality-first mindset. My strength lies in connecting the dots from design and development to manufacturing and customer impact, ensuring that innovation scales with precision and reliability.",
   avatarUrl: "/me.png",
+
   skills: [
     "Hardware Engineering",
-    "Cross Functional Leadership",
+    "Cross-Functional Leadership",
     "Stakeholder Management",
     "Project Planning",
     "Program Lifecycle (PLC)",
@@ -29,8 +30,8 @@ export const DATA = {
     "Metrics Tracking",
     "KPI Management",
     "Change Management", 
-    "Quality Management System(QMS)",
-    "Quality Assurance Plan(QAP)", 
+    "Quality Management System (QMS)",
+    "Quality Assurance Plan (QAP)", 
     "Managing Up and Across",
     "Engineering Leadership",
     "Executive Reporting",
@@ -45,14 +46,15 @@ export const DATA = {
     "Leadership & People Skills",
     "Team Mentorship", 
     "Leading Without Authority",
-    "Decision-Making under uncertainty",
+    "Decision-Making Under Uncertainty",
     "Emotional Intelligence",
     "Organizational Awareness",
   ],
+
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
-    /*{ href: "/blog", icon: NotebookIcon, label: "Blog" }*/
   ],
+
   contact: {
     email: "amarjitbhatia1@gmail.com",
     tel: "+18583354631",
@@ -61,25 +63,22 @@ export const DATA = {
         name: "GitHub",
         url: "https://github.com/amarjitbhatia",
         icon: Icons.github,
-
         navbar: true,
       },
       LinkedIn: {
         name: "LinkedIn",
         url: "https://www.linkedin.com/in/amarjit-bhatia-3627207/",
         icon: Icons.linkedin,
-
         navbar: true,
       },
       X: {
         name: "X",
         url: "https://dub.sh/dillion-twitter",
         icon: Icons.x,
-
         navbar: false,
       },
-      Youtube: {
-        name: "Youtube",
+      YouTube: {
+        name: "YouTube",
         url: "https://dub.sh/dillion-youtube",
         icon: Icons.youtube,
         navbar: false,
@@ -88,7 +87,6 @@ export const DATA = {
         name: "Send Email",
         url: "https://mail.google.com/mail/u/0/#inbox?compose=new",
         icon: Icons.email,
-
         navbar: true,
       },
     },
@@ -112,19 +110,19 @@ export const DATA = {
       badges: [],
       href: "https://www.hp.com",
       location: "San Diego, CA",
-      title: "Senior New product Introduction- NPI Manager ",
+      title: "Senior New Product Introduction (NPI) Manager",
       logoUrl: "/hp.png",
       start: "June 2013",
       end: "July 2015",
       description:
-        "Drove successful launch of multiple products in the portfolio , adding 10.5 million units to the global install base and generating over $1.4B in hardware revenue."
+        "Drove successful launch of multiple products in the portfolio, adding 10.5 million units to the global install base and generating over $1.4B in hardware revenue.",
     },
     {
       company: "HP Inc.",
       href: "https://www.hp.com",
       badges: [],
       location: "San Diego, CA",
-      title: "Quality & Sustaining Engineering Manager | Hardware Systems | Production & Field Quality.",
+      title: "Quality & Sustaining Engineering Manager | Hardware Systems | Production & Field Quality",
       logoUrl: "/hp.png",
       start: "October 2008",
       end: "June 2013",
@@ -141,7 +139,7 @@ export const DATA = {
       start: "August 2002",
       end: "October 2008",
       description:
-        "Led electrical design for main circuit boards and control panels, prioritizing cost-effective, reliable, and manufacturable designs, Expanded design-for-cost practices regionally and globally, supporting strategic cost-out initiatives in collaboration with procurement and operations. Performed rigorous validation and reliability testing: HALT, worst-case circuit analysis, thermal profiling, and environmental stress evaluations. Ensured compliance with global safety, EMI/EMC, and regulatory standards, coordinating with certification labs to meet international market requirements",
+        "Led electrical design for main circuit boards and control panels, prioritizing cost-effective, reliable, and manufacturable designs. Expanded design-for-cost practices regionally and globally, supporting strategic cost-out initiatives in collaboration with procurement and operations. Performed rigorous validation and reliability testing: HALT, worst-case circuit analysis, thermal profiling, and environmental stress evaluations. Ensured compliance with global safety, EMI/EMC, and regulatory standards, coordinating with certification labs to meet international market requirements.",
     },
     {
       company: "HP Inc.",
@@ -160,29 +158,31 @@ export const DATA = {
       href: "https://www.cdil.com/",
       badges: [],
       location: "Chandigarh, India",
-      title: "Semiconductor Process engineer",
+      title: "Semiconductor Process Engineer",
       logoUrl: "/CDIL.png",
       start: "September 1996",
       end: "July 1999",
       description:
-        "Managed programming, maintenance, and troubleshooting of ASMPT pick-and-place machines—gaining hands-on expertise in precision automation essential for semiconductor assembly and testing. Oversaw end-to-end production processes including die bonding, wire bonding, molding, and quality control in a cleanroom environment. Directed manufacturing operations for BJT transistors (TO-92, TO-220), diodes, and TO-3 packages, from wafer fabrication to packaging. Implemented robust process controls to enhance product consistency, yield, and reliability in volume manufacturin",
+        "Managed programming, maintenance, and troubleshooting of ASMPT pick-and-place machines—gaining hands-on expertise in precision automation essential for semiconductor assembly and testing. Oversaw end-to-end production processes including die bonding, wire bonding, molding, and quality control in a cleanroom environment. Directed manufacturing operations for BJT transistors (TO-92, TO-220), diodes, and TO-3 packages, from wafer fabrication to packaging. Implemented robust process controls to enhance product consistency, yield, and reliability in volume manufacturing.",
     },
   ],
+
   education: [
     {
       school: "Punjabi University",
       href: "https://www.punjabiuniversity.ac.in/",
-      degree: "Bachelors of Engineering in Electronics and Instrumentation  ",
+      degree: "Bachelor of Engineering in Electronics and Instrumentation",
       logoUrl: "/PunjabiUniv.png",
       start: "1992",
       end: "1996",
     },
   ],
+
   projects: [
     {
-      title: "Control Panel Capacitive touch redesign- Pan HP project",
+      title: "Control Panel Capacitive Touch Redesign – Pan HP Project",
       href: "https://github.com/amarjitbhatia/touchpanel-ui/blob/main/Control_panel_touch_sensing_UI_optimization.pdf",
-      dates: "Jan 2024 - April 2025",
+      dates: "Jan 2024 - Apr 2025",
       active: true,
       description:
         "A pan-organizational initiative I led to redesign the user interface (UI) touch architecture from a dual-chip to a single-chip solution. This project spanned multiple products and involved coordinating cross-functional engineering teams across Singapore, Boise, and San Diego labs. The primary goals were to achieve cost savings, improve touch performance, and streamline integration across the product portfolio. The successful implementation of this initiative resulted in significant benefits for the organization.",
@@ -190,22 +190,22 @@ export const DATA = {
         "Cadence Allegro",
         "PCB Design",
         "Firmware Development",
-        "Solidworks Creo",
-        "Global team management",
+        "SolidWorks Creo",
+        "Global Team Management",
         "Cost Optimization",
-        "Complaince testing",
-        "Project management",
-        "Operations Management"
+        "Compliance Testing",
+        "Project Management",
+        "Operations Management",
       ],
       links: [
         {
           type: "Website",
           href: "https://github.com/amarjitbhatia/touchpanel-ui/blob/main/Control_panel_touch_sensing_UI_optimization.pdf",
-          icon: <Icons.globe className="size-3" />,
+          icon: Icons.globe,
         },
       ],
       image: "",
-      video:"/CapUI.png",
+      video: "/CapUI.png",
     },
     {
       title: "Magic UI",
@@ -213,10 +213,10 @@ export const DATA = {
       dates: "June 2023 - Present",
       active: true,
       description:
-        "Designed, developed and sold animated UI components for developers.",
+        "Designed, developed, and sold animated UI components for developers.",
       technologies: [
         "Next.js",
-        "Typescript",
+        "TypeScript",
         "PostgreSQL",
         "Prisma",
         "TailwindCSS",
@@ -228,12 +228,12 @@ export const DATA = {
         {
           type: "Website",
           href: "https://magicui.design",
-          icon: <Icons.globe className="size-3" />,
+          icon: Icons.globe,
         },
         {
           type: "Source",
           href: "https://github.com/magicuidesign/magicui",
-          icon: <Icons.github className="size-3" />,
+          icon: Icons.github,
         },
       ],
       image: "",
@@ -242,13 +242,13 @@ export const DATA = {
     {
       title: "llm.report",
       href: "https://llm.report",
-      dates: "April 2023 - September 2023",
+      dates: "Apr 2023 - Sep 2023",
       active: true,
       description:
-        "Developed an open-source logging and analytics platform for OpenAI: Log your ChatGPT API requests, analyze costs, and improve your prompts.",
+        "Developed an open-source logging and analytics platform for OpenAI: log your ChatGPT API requests, analyze costs, and improve your prompts.",
       technologies: [
         "Next.js",
-        "Typescript",
+        "TypeScript",
         "PostgreSQL",
         "Prisma",
         "TailwindCSS",
@@ -261,12 +261,12 @@ export const DATA = {
         {
           type: "Website",
           href: "https://llm.report",
-          icon: <Icons.globe className="size-3" />,
+          icon: Icons.globe,
         },
         {
           type: "Source",
           href: "https://github.com/dillionverma/llm.report",
-          icon: <Icons.github className="size-3" />,
+          icon: Icons.github,
         },
       ],
       image: "",
@@ -275,13 +275,13 @@ export const DATA = {
     {
       title: "Automatic Chat",
       href: "https://automatic.chat",
-      dates: "April 2023 - March 2024",
+      dates: "Apr 2023 - Mar 2024",
       active: true,
       description:
-        "Developed an AI Customer Support Chatbot which automatically responds to customer support tickets using the latest GPT models.",
+        "Developed an AI customer support chatbot which automatically responds to customer support tickets using the latest GPT models.",
       technologies: [
         "Next.js",
-        "Typescript",
+        "TypeScript",
         "PostgreSQL",
         "Prisma",
         "TailwindCSS",
@@ -294,7 +294,7 @@ export const DATA = {
         {
           type: "Website",
           href: "https://automatic.chat",
-          icon: <Icons.globe className="size-3" />,
+          icon: Icons.globe,
         },
       ],
       image: "",
@@ -302,4 +302,4 @@ export const DATA = {
         "https://pub-83c5db439b40468498f97946200806f7.r2.dev/automatic-chat.mp4",
     },
   ],
- }; 
+};
