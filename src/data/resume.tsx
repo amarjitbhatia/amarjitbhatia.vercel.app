@@ -302,7 +302,7 @@ export const DATA = {
         "https://pub-83c5db439b40468498f97946200806f7.r2.dev/automatic-chat.mp4",
     },
   ],
-  /*hackathons: [
+  hackathons: [
     {
       title: "Portal Hackathon",
       dates: "October 29, 2016",
@@ -319,5 +319,5 @@ export const DATA = {
         },
       ],
     },
-  ],*/
+  ],
 } as const;
