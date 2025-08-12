@@ -204,8 +204,8 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "",
-      video:"/CapUI.png",
+      image: "/CapUI.png",
+      video:"",
     },
     {
       title: "Magic UI",
