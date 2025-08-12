@@ -84,8 +84,8 @@ export const DATA = {
         icon: Icons.youtube,
         navbar: false,
       },
-      email: {
-        name: "Send Email",
+      Email: {
+        name: "Email",
         url: "https://mail.google.com/mail/u/0/#inbox?compose=new",
         icon: Icons.email,
 

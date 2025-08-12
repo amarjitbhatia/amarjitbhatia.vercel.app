@@ -124,8 +124,8 @@ export default function Page() {
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                   I&apos;ve worked on a variety of projects, including Hardware design optimization
-                  New product introduction, full cycle development and estanlished end 2 end quality systems 
-                  check out some of my key initiatives below.
+                  New product introduction, Full Cycle Development and established End-2-End Quality Systems 
+                  Check out some of my key initiatives below.
                 </p>
               </div>
             </div>
@@ -165,10 +165,10 @@ export default function Page() {
               <p className="mx-auto max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                 Want to chat? Just shoot me an email{" "}
                 <Link
-                  href={DATA.contact.social.X.url}
+                  href={DATA.contact.social.Email.url}
                   className="text-blue-500 hover:underline"
                 >
-                  with a direct question on twitter
+                  with a direct question on Email
                 </Link>{" "}
                 and I&apos;ll respond whenever I can. I will ignore all
                 soliciting.
