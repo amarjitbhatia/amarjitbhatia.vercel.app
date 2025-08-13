@@ -379,6 +379,7 @@ export const DATA = {
         "Redesign",
         "Miniaturization",
         "Penalization",
+        "Wi-Fi and BLE improvement",
         "Cost-saving",
       ],
       links: [
