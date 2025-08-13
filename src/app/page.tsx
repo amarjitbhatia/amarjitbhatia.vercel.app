@@ -102,21 +102,21 @@ export default function Page() {
           <BlurFade delay={BLUR_FADE_DELAY * 5}>
             <h2 className="text-xl font-bold">Certifications and Memberships</h2>
           </BlurFade>
-          {DATA.work.map((work, id) => (
+          {DATA.Certifications.map((Certifications, id) => (
             <BlurFade
-              key={work.company}
+              key={Certifications.company}
               delay={BLUR_FADE_DELAY * 6 + id * 0.05}
             >
               <ResumeCard
-                key={work.company}
-                logoUrl={work.logoUrl}
-                altText={work.company}
-                title={work.company}
-                subtitle={work.title}
-                href={work.href}
-                badges={work.badges}
-                period={`${work.start} - ${work.end ?? "Present"}`}
-                description={work.description}
+                key={Certifications.company}
+                logoUrl={Certifications.logoUrl}
+                altText={Certifications.company}
+                title={Certifications.company}
+                subtitle={Certifications.title}
+                href={Certifications.href}
+                badges={Certifications.badges}
+                period={`${Certifications.start} - ${Certifications.end ?? "Present"}`}
+                description={Certifications.description}
               />
             </BlurFade>
           ))}
