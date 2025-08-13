@@ -213,7 +213,7 @@ export const DATA = {
       dates: "October 2022-August 2023",
       active: true,
       description:
-        "I led the conversion of multiple PCB surface finishes from Immersion Tin to Organic Solderability Preservative (OSP), delivering a cost-effective, environmentally sustainable, and reliable solution. I drove a multi-lab initiative involving teams in Singapore, Shanghai, and San Diego product labs to manage R&D and factory qualifications, including PCB validation, solderability and electrical testing, and ensured OSP compatibility with HP ink through chemical and stability analysis. I executed a phased production rollout with continuous monitoring and quality control, achieving a smooth transition that upheld product quality and compliance while enhancing sustainability.",
+        "I led the conversion of PCB surface finishe from Immersion Tin to Organic Solderability Preservative (OSP) on multiple products, delivering a cost-effective, environmentally sustainable, and reliable solution. I drove a multi-site initiative involving teams in Singapore, Shanghai, and San Diego product labs to manage R&D and factory qualifications, including PCB validation, solderability and electrical testing, and ensured OSP compatibility with HP ink through chemical and stability analysis. I executed a phased production rollout with continuous monitoring and quality control, achieving a smooth transition that upheld product quality and compliance while enhancing sustainability.",
       technologies: [
         "Cross-Functional Leadership",
         "R&D Qualification",
