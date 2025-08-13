@@ -186,14 +186,18 @@ export const DATA = {
       end: "2025",
     },
   ],
- Certifications: [
+  Certifications: [
     {
-      school: "Project Management Institute",
+      company: "PMI.",
       href: "https://www.pmi.org/",
-      degree: "Certified member PMI San Diego Chapter",
-      logoUrl: "/PMI.png",
+      badges: [],
+      location: "San Diego, CA",
+      title: "Certified Member PMI San Diego Chapter",
+      logoUrl: "/Pmi.png",
       start: "2025",
       end: "",
+      description:
+        " I am a certified member of the Project Management Institute (PMI) and an active member of the PMI San Diego Chapter, This marks an important step in my commitment to continuous professional growth and staying connected with a vibrant community of project management professionals",
     },
   ],
   projects: [
