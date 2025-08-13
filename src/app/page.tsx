@@ -123,7 +123,7 @@ export default function Page() {
                   Check out my latest work
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  I&apos;led a wide range of initiatives, including hardware design optimization,
+                  I&apos;ve led a wide range of initiatives, including hardware design optimization,
                   new product introduction, full-cycle development, and end-to-end quality systems.
                   Below are some highlights of my key projects and achievements.
                 </p>
