@@ -292,6 +292,32 @@ export const DATA = {
       video:
         "",
     },
+    {
+      title: "Design optimization project",
+      href: "https://github.com/amarjitbhatia/Design_optimizations/blob/main/Design_optimization_projects.pdf",
+      dates: "",
+      active: true,
+      description:
+        "I have successfully led multiple design optimization projects, including PCB size reduction, MLCC (Multilayer Ceramic Capacitor) optimization, and the merging of the fax card into the main PCA to eliminate legacy components. I drove control panel redesign efforts that improved usability and reliability, reduced PCB assembly footprints through circuit optimization, and qualified smaller IC packages for security chips to enhance board efficiency. Additionally, I redesigned logic boards for improved PCB penalization and transitioned PCB panel designs from 4-tab to 2-tab configurations, resulting in streamlined manufacturing and cost savings.",
+      technologies: [
+        "PCB Reduction",
+        "MLCC Optimization",
+        "Redesign",
+        "Miniaturization",
+        "Penalization",
+        "Cost-saving",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://github.com/amarjitbhatia/Design_optimizations/blob/main/Design_optimization_projects.pdf",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "PCB.png",
+      video:
+        "",
+    },
   ],
   /*hackathons: [
     {
