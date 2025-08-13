@@ -177,8 +177,16 @@ export const DATA = {
       start: "1992",
       end: "1996",
     },
+    {
+      school: "Palomar College",
+      href: "https://www.palomar.edu/",
+      degree: "Altium Designer Advanced PCB design Multilayer and rigid Flex Circuits ",
+      logoUrl: "/Palomar.png",
+      start: "2024",
+      end: "2025",
+    },
   ],
-    Certifications: [
+ Certifications: [
     {
       school: "Project Management Institute",
       href: "https://www.pmi.org/",
