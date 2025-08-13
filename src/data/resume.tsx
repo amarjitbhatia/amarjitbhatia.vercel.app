@@ -336,7 +336,33 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "PCB.png",
+      image: "EMC.png",
+      video:
+        "",
+    },
+    {
+      title: "Drone Design",
+      href: "https://github.com/amarjitbhatia/AltiumDesigner/blob/main/Altium_Designer_drone_design.pdf",
+      dates: "",
+      active: true,
+      description:
+        "I completed a multi-board system design for a drone using Altium Designer, integrating multiple subsystems into a unified architecture. The design featured interface cards, a master controller board, and a high-performance motor control module. A key highlight was developing an 8-layer PCB with BGA packages and DDR3 memory, incorporating precise line balancing to maintain signal integrity and high-speed performance. I also designed rigid-flex and multilayer boards to maximize space efficiency and ensure reliability within the drones compact form factor, while meeting robust connectivity and manufacturability requirements.",
+      technologies: [
+        "Altium designer",
+        "Rigid-Flex PCB",
+        "Power Plane Planning",
+        "Line Balancing",
+        "MultilayerPCB design",
+        "System Integeration",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://github.com/amarjitbhatia/AltiumDesigner/blob/main/Altium_Designer_drone_design.pdf",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "Drone.png",
       video:
         "",
     },
@@ -362,7 +388,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "EMC.png",
+      image: "PCB.png",
       video:
         "",
     },
