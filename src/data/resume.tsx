@@ -180,7 +180,7 @@ export const DATA = {
     {
       school: "Palomar College",
       href: "https://www.palomar.edu/",
-      degree: "Altium Designer Advanced PCB design Multilayer and rigid Flex Circuits ",
+      degree: "Altium Designer Advanced PCB Design Multilayer and Rigid Flex Circuits ",
       logoUrl: "/Palomar.png",
       start: "2024",
       end: "2025",
@@ -311,6 +311,32 @@ export const DATA = {
         },
       ],
       image: "NPI.png",
+      video:
+        "",
+    },
+    {
+      title: "EMC Optimization",
+      href: "https://github.com/amarjitbhatia/EMC_optimization/blob/main/EMC_optimization.pdf",
+      dates: "",
+      active: true,
+      description:
+        "I studied the use of ferrites, EMC components, and cable shielding in the product design, then implemented a redesign to optimize cost and enhance Wi-Fi RF performance. The redesign included removal of ferrites and cable shielding, followed by A/B testing with modifications in both 3-meter and 10-meter chambers for RFI performance validation. Additionally, the main logic board was redesigned to achieve further system-level optimizations, ensuring compliance with CISPR requirements for Germany and the European Union, including EFT and conducted immunity testing, while balancing regulatory compliance, RF performance, and system integration.",
+      technologies: [
+        "EMC Optimization",
+        "Electrical Fast Transients Testing",
+        "European Regulatory Complaince",
+        "Design Optimization",
+        "Wi-FI Antenna Tunning",
+        "Cost-saving",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://github.com/amarjitbhatia/EMC_optimization/blob/main/EMC_optimization.pdf",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "PCB.png",
       video:
         "",
     },
