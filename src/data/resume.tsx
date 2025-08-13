@@ -318,6 +318,33 @@ export const DATA = {
       video:
         "",
     },
+    {
+      title: "Main PCA project",
+      href: "https://github.com/amarjitbhatia/Main_Logic_redesign/blob/main/MPCA_redesign.pdf",
+      dates: "",
+      active: true,
+      description:
+        "I led the redesign of the main logic board with a focus on cost optimization, collaborating closely with the mechanical engineer to ensure the new design met all form, fit, and functional requirements. Together, we conducted thorough assembly studies to streamline manufacturing and improve efficiency. I worked closely with the factory process and DFX teams to optimize manufacturability and testability, ensuring a smooth transition to production. Additionally, I managed compliance testing and regulatory approvals across multiple countries to guarantee the product met all necessary standards. Following successful validation, the redesigned logic board was released into production, delivering both cost savings and reliable performance.",
+      technologies: [
+        "PCB Reduction",
+        "Integeration",
+        "Redesign",
+        "DFX",
+        "Compliance",
+        "Cost-saving",
+        "Collaboration",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://github.com/amarjitbhatia/Main_Logic_redesign/blob/main/MPCA_redesign.pdf",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "PCA.png",
+      video:
+        "",
+    },
   ],
   /*hackathons: [
     {
