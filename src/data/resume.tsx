@@ -180,22 +180,22 @@ export const DATA = {
   ],
   projects: [
     {
-      title: "Control Panel Capacitive touch redesign- Pan HP project",
+      title: "Multi-Product Capacitive Touch UI Redesign ",
       href: "https://github.com/amarjitbhatia/touchpanel-ui/blob/main/Control_panel_touch_sensing_UI_optimization.pdf",
       dates: "Jan 2024 - April 2025",
       active: true,
       description:
-        "A pan-organizational initiative I led to redesign the user interface (UI) touch architecture from a dual-chip to a single-chip solution. This project spanned multiple products and involved coordinating cross-functional engineering teams across Singapore, Boise, and San Diego labs. The primary goals were to achieve cost savings, improve touch performance, and streamline integration across the product portfolio. The successful implementation of this initiative resulted in significant benefits for the organization.",
+        "I spearheaded a pan-organizational initiative to redesign the user interface (UI) touch architecture, transitioning from a dual-chip to a single-chip solution. This effort spanned multiple product lines and required close coordination with cross-functional engineering teams in Singapore, Boise, and San Diego. The objectives were to drive cost reductions, enhance touch performance, and simplify integration across the product portfolio. The successful rollout delivered substantial cost savings, improved user experience, and streamlined manufacturing processes, generating significant strategic and operational benefits for the organization.",
       technologies: [
+        "Global team management",
+        "Firmware Development",
+        "Project management",
+        "Operations Management",
         "Cadence Allegro",
         "PCB Design",
-        "Firmware Development",
         "Solidworks Creo",
-        "Global team management",
         "Cost Optimization",
         "Complaince testing",
-        "Project management",
-        "Operations Management"
       ],
       links: [
         {
