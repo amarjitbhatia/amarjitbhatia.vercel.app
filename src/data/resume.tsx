@@ -362,7 +362,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "PCB.png",
+      image: "EMC.png",
       video:
         "",
     },
