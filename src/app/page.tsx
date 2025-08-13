@@ -123,9 +123,9 @@ export default function Page() {
                   Check out my latest work
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  I&apos;ve worked on a variety of projects, including Hardware design optimization
-                  New product introduction, Full Cycle Development and established End-2-End Quality Systems 
-                  Check out some of my key initiatives below.
+                  I&apos;led a wide range of initiatives, including hardware design optimization,
+                  new product introduction, full-cycle development, and end-to-end quality systems.
+                  Below are some highlights of my key projects and achievements.
                 </p>
               </div>
             </div>
