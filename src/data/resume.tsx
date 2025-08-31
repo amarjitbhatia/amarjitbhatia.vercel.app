@@ -189,7 +189,6 @@ export const DATA = {
   Certifications: [
     {
       company: "Coursera",
-      title: "Certified Associate in Project Management (PMI-CAPM)",
       href: "https://www.coursera.org/account/accomplishments/specialization/2P6YWTMZ45YI",
       logoUrl: "/Coursera.png",
       start: "July 2025",
@@ -207,7 +206,7 @@ export const DATA = {
       start: "2025",
       end: "Present",
       description:
-        " I am a certified member of the Project Management Institute (PMI) and an active member of the PMI San Diego Chapter, This marks an important step in my commitment to continuous professional growth and staying connected with a vibrant community of project management professionals",
+        " Certified member of the Project Management Institute (PMI) and an active member of the PMI San Diego Chapter, This marks an important step in my commitment to continuous professional growth and staying connected with a vibrant community of project management professionals",
     },
   ],
   projects: [
