@@ -188,7 +188,7 @@ export const DATA = {
   ],
   Certifications: [
     {
-      company: "PMI.",
+      company: "Coursera",
       href: "https://www.coursera.org/account/accomplishments/specialization/2P6YWTMZ45YI",
       badges: [],
       location: "San Diego, CA",
@@ -200,7 +200,7 @@ export const DATA = {
         "Certified Associate in Project Management (PMI-CAPM) Specialization on Coursera",
     },
      {
-      company: "Coursera",
+      company: "PMI.",
       href: "https://www.pmi.org/",
       badges: [],
       location: "San Diego, CA",
