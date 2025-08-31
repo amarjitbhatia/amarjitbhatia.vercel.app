@@ -111,7 +111,6 @@ export default function Page() {
                 key={Certifications.company}
                 logoUrl={Certifications.logoUrl}
                 altText={Certifications.company}
-                title={Certifications.company}
                 subtitle={Certifications.title}
                 href={Certifications.href}
                 badges={Certifications.badges}
