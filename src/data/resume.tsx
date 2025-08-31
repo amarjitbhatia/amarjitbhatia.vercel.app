@@ -189,7 +189,7 @@ export const DATA = {
   Certifications: [
     {
       company: "Coursera",
-      title: "https://www.coursera.org/account/accomplishments/specialization/2P6YWTMZ45YI",
+      title: "CAPM-PMI.",
       href: "https://www.coursera.org/account/accomplishments/specialization/2P6YWTMZ45YI",
       logoUrl: "/Coursera.png",
       start: "July 2025",
