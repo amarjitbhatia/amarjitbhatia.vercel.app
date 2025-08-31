@@ -171,6 +171,7 @@ export const DATA = {
   education: [
     {
       school: "Punjabi University",
+      href: "https://puchd.ac.in/",
       degree: "Bachelors of Engineering in Electronics and Instrumentation  ",
       logoUrl: "/PunjabiUniv.png",
       start: "1992",
