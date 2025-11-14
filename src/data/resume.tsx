@@ -211,7 +211,7 @@ export const DATA = {
     },
     {
       company: "CAPM",
-      title: "Certified Associate in Program Management",
+      title: "Certified Associate in Program Management CAPM®",
       href: "https://www.credly.com/badges/48877a67-7d8a-4786-810e-e472186c3879/linked_in_profile",
       logoUrl: "/CAPM.png",
       start: "Sept 2025",
