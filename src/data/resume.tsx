@@ -200,7 +200,7 @@ export const DATA = {
   ],
   Certifications: [
     {
-      company: "PMI",
+      company: "PMP",
       title: "Project Management Professional PMP®",
       href: "https://www.credly.com/badges/48877a67-7d8a-4786-810e-e472186c3879/linked_in_profile",
       logoUrl: "/PMP.png",
@@ -210,8 +210,8 @@ export const DATA = {
       description:"Project management professional PMP",
     },
     {
-      company: "PMI",
-      title: "CAPM®",
+      company: "CAPM",
+      title: "Certified Associate in Program Management",
       href: "https://www.credly.com/badges/48877a67-7d8a-4786-810e-e472186c3879/linked_in_profile",
       logoUrl: "/CAPM.png",
       start: "Sept 2025",
