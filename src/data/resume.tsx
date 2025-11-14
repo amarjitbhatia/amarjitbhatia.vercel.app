@@ -191,7 +191,7 @@ export const DATA = {
       company: "PMI",
       title: "Project Management Professional PMP®",
       href: "https://www.credly.com/badges/48877a67-7d8a-4786-810e-e472186c3879/linked_in_profile",
-      logoUrl: "/PMP .png",
+      logoUrl: "/PMP.png",
       start: "Oct 2025",
       end: "Oct 2028",
       badges: ["Certification"],
