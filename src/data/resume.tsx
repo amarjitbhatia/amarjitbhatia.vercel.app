@@ -105,18 +105,7 @@ export const DATA = {
       start: "Oct 2025",
       end: "Present",
       description:
-        "Hands-on engineering, architecting, and designing the next generation of smart thermostats and connected devices — powered by IoT, Wi-Fi 6, BLE, Zigbee, Z-Wave, Thread, MIPI displays, intuitive user interfaces, and advanced relay logic for HVAC control.
-Key Responsibilities:
-• Collaborate with the Program Management Office (PMO) to translate product requirements into detailed electrical design specifications and ensure timely project execution.
-• Lead end-to-end electrical hardware design for advanced connected HVAC and smart home control systems.
-• Architect mixed-signal and digital circuits supporting IoT connectivity, wireless communication, and sensor integration.
-• Design and validate high-speed interfaces and MIPI display modules to enhance user experience and visual performance.
-• Develop and test relay logic control systems for reliable and efficient HVAC switching and protection.
-• Partner closely with firmware, mechanical, and manufacturing teams to ensure seamless system integration and robust performance.
-• Drive design validation, qualification, and regulatory compliance (EMC, safety, and environmental standards).
-• Lead prototype bring-up, debugging, and performance optimization for manufacturability and cost efficiency.
-• Interface with global suppliers and manufacturing teams to enable smooth high-volume production ramp-up.
-• Champion innovation in energy efficiency, wireless connectivity, and user experience for next-generation smart home solutions.",
+        "Hands-on engineering, architecting, and designing the next generation of smart thermostats and connected devices — powered by IoT, Wi-Fi 6, BLE, Zigbee, Z-Wave, Thread, MIPI displays, intuitive user interfaces, and advanced relay logic for HVAC control.Collaborate with the Program Management Office (PMO) to translate product requirements into detailed electrical design specifications and ensure timely project execution.Lead end-to-end electrical hardware design for advanced connected HVAC and smart home control systems.Architect mixed-signal and digital circuits supporting IoT connectivity, wireless communication, and sensor integration.Design and validate high-speed interfaces and MIPI display modules to enhance user experience and visual performance.Develop and test relay logic control systems for reliable and efficient HVAC switching and protection.Partner closely with firmware, mechanical, and manufacturing teams to ensure seamless system integration and robust performance.Drive design validation, qualification, and regulatory compliance (EMC, safety, and environmental standards).Lead prototype bring-up, debugging, and performance optimization for manufacturability and cost efficiency.Interface with global suppliers and manufacturing teams to enable smooth high-volume production ramp-up.Champion innovation in energy efficiency, wireless connectivity, and user experience for next-generation smart home solutions.",
     },
     {
       company: "HP Inc.",
