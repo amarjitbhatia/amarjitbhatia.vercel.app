@@ -115,7 +115,7 @@ export const DATA = {
       title: "Senior Technical Program Manager | Hardware Delivery & Cost Optimization",
       logoUrl: "/hp.png",
       start: "July 2015",
-      end: "Present",
+      end: "June-2025",
       description:
         "Strategic and execution-focused hardware program leader with a strong track record of delivering complex, cross-functional systems from concept through high-volume production. I serve as the single-threaded owner of hardware programs—accountable for end-to-end delivery, from architecture through validation, supplier alignment, and production readiness.",
     },
